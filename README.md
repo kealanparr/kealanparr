@@ -6,4 +6,6 @@ Currently a technical author on [CSS tricks](https://css-tricks.com/author/keapa
 
 Currently also a member in good standing of the [Unicode Consortium](https://unicode.org/consortium/consort.html).
 
-Curious to learn more things with tech, play with new technologies and interested in reading, chess, finance and exercise.
+Curious to learn more, build more and write more around tech & programming.
+
+ Interested in reading, chess, finance and exercise.
