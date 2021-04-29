@@ -8,6 +8,6 @@ Currently also a member in good standing of the [Unicode Consortium](https://uni
 
 Curious to learn more, build more and write more around tech & programming.
 
-A lot of the stuff I push is me just playing around with new tech. I use GitHub as a way to store my work, rather than write production code in every repo I do.
+Some of the stuff I push is me just playing around with new tech. I use GitHub as a way to store my work, rather than write production code in every repo I do.
 
  Interested in reading, chess, finance and exercise.
