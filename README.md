@@ -13,3 +13,4 @@ Curious to learn more, build more and write more around tech & programming.
 Some of the stuff I push is me just playing around with new tech. I use GitHub as a way to store my work, rather than write production code in every repo I do.
 
  Interested in reading, chess, finance and exercise.
+
