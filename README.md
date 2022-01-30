@@ -18,3 +18,4 @@ Some of the stuff I push is me just playing around with new tech. I use GitHub a
 
  Interested in reading, chess, finance and exercise.
 
+I wrote a little more about my career and what I'm working on at the minute [here](https://developer-forge.com/about/)
